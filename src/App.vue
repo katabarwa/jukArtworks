@@ -144,32 +144,32 @@ backgroundColor: 'var(--reversebg)',
 
 
   
-  {
+//   {
 
-images: 
-[
-   { src: 
-  'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/65363.jpg',
-   width: '1fr' },
-   { src: 
-      'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/8356.jpg',
-       width: '1fr' },
+// images: 
+// [
+//    { src: 
+//   'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/65363.jpg',
+//    width: '1fr' },
+//    { src: 
+//       'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/8356.jpg',
+//        width: '1fr' },
 
-       { src: 
-      'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/ssh4.png',
-       width: '1fr' },
-       { src: 
-  'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/87643.jpg',
-   width: '1fr' },
+//        { src: 
+//       'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/ssh4.png',
+//        width: '1fr' },
+//        { src: 
+//   'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/87643.jpg',
+//    width: '1fr' },
    
-  ],
-title: 'Concept Glass & Moss Tables',
-location: 'SSOME.HOW',
-details: `Emergence is the process and relationship between smaller components interacting with each other to create a larger phenomenon that the isolated parts can't by 
-themselves. That concept can be found in many instances in nature. This is also echoed accross the space, within printed matter, installations, and mixed media art works.`,
-backgroundColor: 'var(--bg)',
+//   ],
+// title: 'Concept Glass & Moss Tables',
+// location: 'SSOME.HOW',
+// details: `Emergence is the process and relationship between smaller components interacting with each other to create a larger phenomenon that the isolated parts can't by 
+// themselves. That concept can be found in many instances in nature. This is also echoed accross the space, within printed matter, installations, and mixed media art works.`,
+// backgroundColor: 'var(--bg)',
 
-},
+// },
 
 
 
