@@ -138,9 +138,7 @@ h4 {
   z-index: 10;
 }
 
-.detailsBox h4 {
-  /* white-space: pre-line; */
-}
+
 
 .expand-enter-active,
 .expand-leave-active {

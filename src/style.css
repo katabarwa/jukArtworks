@@ -6,7 +6,8 @@
   --border: #e5e4e7;
   --code-bg: #f4f3ec;
   /* --accent: #aa3bff; */
-  --accent-bg: rgba(170, 59, 255, 0.1);
+  --accent-bg: rgb(215, 223, 235);
+  --accent-text: rgb(136, 137, 153);
   --accent-border: rgba(170, 59, 255, 0.5);
   --social-bg: rgba(244, 243, 236, 0.5);
   --shadow:
@@ -40,7 +41,7 @@
     --border: #2e303a;
     --code-bg: #1f2028;
     /* --accent:black */
-    --accent-bg: rgb(255, 85, 0);
+    --accent-bg: rgb(215, 223, 235);
     --accent-border: rgba(192, 132, 252, 0.5);
     --social-bg: rgba(47, 48, 58, 0.5);
     --shadow:
@@ -165,7 +166,6 @@ code {
 }
 
 #app {
- 
   max-width: 100%;
   margin: 0 auto;
   text-align: left;
