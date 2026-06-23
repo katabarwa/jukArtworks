@@ -82,16 +82,20 @@ width: 100%;
   width:98%;
 display: grid;
 grid-auto-flow: column;
-height: 100%; /* fills .row */
+/* height: 100%;  */
   gap: 12px;
 }
 
 .row img, .row video {
   width:100%;
-  height: 100%; /* fills its grid cell, which fills .imgGroup, which fills .row */
-  object-fit: cover;
+  height: auto; 
+  object-fit: contain;
   min-width: 0; 
   border-radius: 14px;
+}
+
+.row img, .row video {
+  height: auto; 
 }
 
 
@@ -119,6 +123,10 @@ h4 {
   margin-left: 50px;
   cursor: pointer;
   user-select: none;
+}
+
+.expandDets {
+  min-height: 20px; /* ensures a real hoverable hit area */
 }
 
 .expandDets h4 {

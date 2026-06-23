@@ -69,7 +69,7 @@ a dismantling of the body. (2016) Text co-written with exhibtion curator Viola C
     images:    
      [         
         { src: 
-      'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/IMG_6471.MP4', 
+      'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/IMG_6471_fixed.mp4', 
        width: '1fr', type:'video' },
 
   
@@ -97,9 +97,6 @@ images:
    { src: 
   'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/IMG_6449_c.jpg', 
    width: '0.5fr' },  
-  //  { src: 
-  // 'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/IMG_6477.MP4',
-  //  width: '0.6fr' , type:'video'},
    
    { src: 
   'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/ssh3.1.jpg', 
@@ -130,7 +127,7 @@ images:
       'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/IMG_6463.jpg', 
        width: '1fr' },
        { src: 
-  'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/SSH_behindglass.mp4',
+  'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/SSH_behindglass_fixed.mp4',
    width: '1fr' , type:'video'},
    
   ],
