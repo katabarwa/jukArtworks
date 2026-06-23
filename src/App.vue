@@ -3,6 +3,9 @@
 import ImageRow from './components/ImageRow.vue'
 import Widget from './components/Widget.vue';
 
+import { inject } from '@vercel/analytics'
+
+inject()
 
 const rows = [
   {
