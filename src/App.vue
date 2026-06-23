@@ -3,9 +3,6 @@
 import ImageRow from './components/ImageRow.vue'
 import Widget from './components/Widget.vue';
 
-import { inject } from '@vercel/analytics'
-
-inject()
 
 const rows = [
   {
@@ -16,11 +13,7 @@ const rows = [
        width: '1fr' }],
     title: `2025 ﹅ The Grey Rings of My Eyes`,
     location: 'SSOME.HOW',
-    details: `
-The Grey Rings of My Eyes presentation is an attempt to reappropriate digital systems as a way to understand their humanity/de-humanity. 
- Offering a narrative exploring the relational dynamics of such technology within our public and personal life. The internet as a "public" square but
-  also as an intimate nest. Navigating the structural powers threatening and blurring what is public and private. 
-`,
+    details: `The Grey Rings of My Eyes intent is to question our relation to media and technologies within our interpersonal relationships, the world and the systems in which they are built. It is a study of the current state and potentiality of contemporary technology, and the communal bonds and identities it creates.`,
     backgroundColor: 'var(--bg)',
 
   },
@@ -37,8 +30,11 @@ images:
   ],
 title: `2025 ﹅ The Grey Rings of My Eyes, mixed media installation, printed matter, transparent film`,
 location: 'SSOME.HOW',
-details: `Emergence is the process and relationship between smaller components interacting with each other to create a larger phenomenon that the isolated parts can't by 
-themselves. That concept can be found in many instances in nature. This is echoed accross the space, with printed matter, installations, and mixed media artworks.`,
+details:`
+The Grey Rings of My Eyes presentation is an attempt to reappropriate digital systems as a way to understand their humanity/de-humanity. 
+ Offering a narrative exploring the relational dynamics of such technology within our public and personal life. The internet as a "public" square but
+  also as an intimate nest. Navigating the structural powers threatening and blurring what is public and private. 
+`,
 backgroundColor: 'var(--reversebg)',
 
 },
@@ -61,7 +57,7 @@ backgroundColor: 'var(--reversebg)',
     location: 'Romance in Diaspora for Atelier Celadon',
     details: `diasphora (adj.) - diaspora + dysphoria   ⋆ ⊹ ⋆ ⊹
 The unease or feeling of having no sense of home; forever displaced, forever the other, without any sense of self; a blurred identity, 
-a dismantling of the body. (2016) Text co-written with exhibtion curator Viola Chen` ,
+a dismantling of the body. (2016) Text co-written with exhibition curator Viola Chen` ,
 
     backgroundColor: 'var(--bg)',
 
@@ -80,9 +76,8 @@ a dismantling of the body. (2016) Text co-written with exhibtion curator Viola C
       ],
     title: `2025 ﹅ The Grey Rings of My Eyes`,
     location: 'SSOME.HOW',
-    details: `The Grey Rings of My Eyes presentation is an attempt to reappropriate digital systems as a way to understand their humanity/de-humanity. 
- Offering a narrative exploring the relational dynamics of such technology within our public and personal life. The internet as a "public" square but
-  also as an intimate nest. Navigating the structural powers threatening and blurring what is public and private. `,
+    details: `Are we grasping the world as fast as it is evolving? Why is loneliness an undeniable reality of modernity? Tools used as mass-surveillance apparatus and social control. Why growing access in modes of communications and access alienate our interactions? Things seem accessible, but a shell of what it is replacing.
+    Isolation of ideas, contained between what the algorithm wants and what it is fed. Isolation within space, where individuality is manufactured over community and consumption is offered as replacement.`,
     backgroundColor: 'var(--reversebg)',
 
   },
@@ -114,8 +109,7 @@ images:
   ],
 title: `Left: 36" by 36" High Saturation Color Ink on Archival Exhibition Paper. Right: Concept Glass & Moss Tables` ,
 location: 'SSOME.HOW',
-details: `Emergence is the process and relationship between smaller components interacting with each other to create a larger phenomenon that the isolated parts can't by 
-themselves. That concept can be found in many instances in nature. This is echoed accross the space, within printed matter, installations, and mixed media artworks.`,
+details: `“Science, when it becomes mechanical, prevents us from comprehending the creativity which is life itself. Life is a recursive process of making in the unmaking.” Yuk Hui Recursivity and Contingency. `,
 backgroundColor: 'var(--bg)',
 
 },
@@ -136,10 +130,9 @@ images:
   ],
 title: `2025 ﹅ The Grey Rings of My Eyes`,
 location: 'SSOME.HOW',
-details: `The Grey Rings of My Eyes presentation is an attempt to reappropriate digital systems as a way to understand their humanity/de-humanity. 
- Offering a narrative exploring the relational dynamics of such technology within our public and personal life. The internet as a "public" square but
-  also as an intimate nest. Navigating the structural powers threatening and blurring what is public and private.  ⋆ ⊹ ⋆ ⊹ Emergence is the process and relationship between smaller components interacting with each other to create a larger phenomenon that the isolated parts can't by 
-themselves. That concept can be found in many instances in nature. This is echoed accross the space, within printed matter, installations, and mixed media artworks.`,
+details: `The boundaries between our digital identities, virtual footprint and what define us as humans seems to progressively be blurred. The advance of social media and web markets, have turned us, consumers as products.
+Information and images are separated from what they are referring to, both materially and conceptually. This separation is needed to serve capitalist goals, as the goal was never to educate but extract. 
+`,
 backgroundColor: 'var(--reversebg)',
 
 },
