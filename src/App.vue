@@ -112,7 +112,7 @@ images:
    width: '1fr' },
    
   ],
-title: `Left: The Engineer 36" by 36" High Saturation Color Ink on Archival Exhibition Paper. Right: Concept Glass & Moss Tables` ,
+title: `Left: 36" by 36" High Saturation Color Ink on Archival Exhibition Paper. Right: Concept Glass & Moss Tables` ,
 location: 'SSOME.HOW',
 details: `Emergence is the process and relationship between smaller components interacting with each other to create a larger phenomenon that the isolated parts can't by 
 themselves. That concept can be found in many instances in nature. This is echoed accross the space, within printed matter, installations, and mixed media artworks.`,
