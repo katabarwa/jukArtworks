@@ -75,7 +75,7 @@ a dismantling of the body. (2016) Text co-written with exhibtion curator Viola C
   
       
       ],
-    title: 'The Grey Rings of My Eyes',
+    title: `2025 ﹅ The Grey Rings of My Eyes`,
     location: 'SSOME.HOW',
     details: `The Grey Rings of My Eyes presentation is an attempt to reappropriate digital systems as a way to understand their humanity/de-humanity. 
  Offering a narrative exploring the relational dynamics of such technology within our public and personal life. The internet as a "public" square but
@@ -134,7 +134,7 @@ images:
    width: '1fr' , type:'video'},
    
   ],
-title: 'The Grey Rings of My Eyes',
+title: `2025 ﹅ The Grey Rings of My Eyes`,
 location: 'SSOME.HOW',
 details: `The Grey Rings of My Eyes presentation is an attempt to reappropriate digital systems as a way to understand their humanity/de-humanity. 
  Offering a narrative exploring the relational dynamics of such technology within our public and personal life. The internet as a "public" square but
