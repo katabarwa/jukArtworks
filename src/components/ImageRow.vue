@@ -25,7 +25,7 @@ function toggleExpand() {
 </script>
 
 <template>
-  <div class="row" :style="{ backgroundColor, margin, padding }"">
+  <div class="row" :style="{ backgroundColor, margin, padding }">
 
     <div class="imgGroup" :style="{ gridTemplateColumns: gridColumns }">
       <template v-for="(item, i) in images" :key="i">
