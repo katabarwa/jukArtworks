@@ -29,7 +29,7 @@ function toggleExpand() {
 
     <div class="imgGroup" :style="{ gridTemplateColumns: gridColumns }">
       <template v-for="(item, i) in images" :key="i">
-        <video
+        <video alt="Jesse Katabarwa Visual Artist Art Artworks"
           v-if="item.type === 'video'"
           :src="item.src"
           autoplay
