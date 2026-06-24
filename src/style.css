@@ -228,10 +228,13 @@ code {
 h4 a {
   color: inherit;
   text-decoration: none;
+  font-weight: 600;
+  letter-spacing: -1px;
 }
 
 h4 a:visited {
   color: inherit;
+
 }
 
 h4 a:hover {
