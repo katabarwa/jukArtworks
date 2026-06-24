@@ -57,7 +57,7 @@ function toggleExpand() {
         </Transition>
       </div>
 
-      <h4>{{ location }}</h4>
+      <h4 v-html="location"></h4>
     </div>
 
   </div>
