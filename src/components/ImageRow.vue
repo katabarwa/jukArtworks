@@ -65,6 +65,15 @@ function toggleExpand() {
 
 <style scoped>
 
+@media screen and (max-width: 580px) {
+  
+  .description {
+    display: none!important;
+  }
+
+
+}
+
 
 .row {
   display: flex;

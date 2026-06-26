@@ -206,7 +206,14 @@ backgroundColor: 'var(--reversebg)',
 
 <style scoped>
 
+@media screen and (max-width: 580px) {
+  
+ .left{
+    display: none!important;
+  }
 
+
+}
 
 .left {
   background-color: var(--accent-bg);
