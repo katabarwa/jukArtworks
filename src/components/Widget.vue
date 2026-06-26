@@ -58,7 +58,7 @@ onUnmounted(() => clearInterval(intervalId))
                 loading="lazy"
                 allow="autoplay; encrypted-media"
             ></iframe>
-            <a href="https://oasis.ssome.how/">oasis.ssome.how/</a>
+            <a href="https://oasis.ssome.how/">oasis.ssome.how</a>
             <div class="city-clock-grid">
                     <div v-for="(city, i) in cities" :key="city.tz" class="city-clock-card">
                             <h4 class="city-name">{{ city.name }}</h4>
@@ -80,6 +80,10 @@ a {
   margin-bottom: 2px;
   text-decoration: none;
   color: black;
+}
+
+a:hover {
+text-decoration: underline;
 }
 
 .widget-main {
