@@ -8,6 +8,21 @@
   </head>
   <body>
     <div id="app"></div>
-    <script type="module" src="/src/main.js"></script>
+    <script type="module" src="/src/main.js" type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Jesse Katabarwa",
+        "url": "https://art.jessekatabarwa.com",
+        "sameAs": [
+          "https://ssome.how",
+          "https://jessekatabarwa.com",
+          "https://commissions.jessekatabarwa.com",
+          "https://offline.li",
+          "https://j-uk.art"
+        ],
+        "image": "https://[an-image-url-from-this-project]"
+      }
+    </script>
   </body>
 </html>
