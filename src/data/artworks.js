@@ -51,7 +51,7 @@ export const rows = [
       location: 'Romance in Diaspora for Atelier Celadon',
       details: `diasphora (adj.) - diaspora + dysphoria   ⋆ ⊹ ⋆ ⊹
   The unease or feeling of having no sense of home; forever displaced, forever the other, without any sense of self; a blurred identity, 
-  a dismantling of the body. (2016) Text co-written with exhibition curator Viola Chen` ,
+  a dismantling of the body.` ,
   
       backgroundColor: 'var(--bg)',
   
