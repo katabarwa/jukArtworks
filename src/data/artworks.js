@@ -70,8 +70,14 @@ export const rows = [
         ],
       title: `2025 ﹅ The Grey Rings of My Eyes`,
       location: `<a href="https://ssome.how">SSOME.HOW</a>`,
-      details: `Are we grasping the world as fast as it is evolving? Why is loneliness an undeniable reality of modernity? Tools used as mass-surveillance apparatus and social control. Why growing access in modes of communications and access alienate our interactions? Things seem accessible, but a shell of what it is replacing.
-      Isolation of ideas, contained between what the algorithm wants and what it is fed. Isolation within space, where individuality is manufactured over community and consumption is offered as replacement.`,
+      details: `Are we grasping the world as fast as it is evolving? 
+      Why is loneliness an undeniable reality of modernity? Tools used as 
+      mass-surveillance apparatus and social control. Why growing access in 
+      modes of communications and access alienate our interactions? Things 
+      seem accessible, but a shell of what they are replacing.
+      Isolation of ideas, contained between what the algorithm wants and 
+      what it is fed. Isolation within space, where individuality is manufactured 
+      over community and consumption is offered as a replacement.`,
       backgroundColor: 'var(--reversebg)',
   
     },
