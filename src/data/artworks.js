@@ -3,7 +3,7 @@ export const rows = [
       // Row with a local asset + a Cloudflare R2 asset mixed together
       images: 
       [{ src: 
-        'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/Jesse%20Katabarwa_1.jpg', 
+        'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/Jesse_Umulisa_Katabarwa_1.jpg', 
          width: '1fr' }],
       title: `2025 ﹅ The Grey Rings of My Eyes`,
       location: `<a href="https://ssome.how">SSOME.HOW</a>`,
@@ -15,10 +15,10 @@ export const rows = [
   
   images: 
   [{ src: 
-    'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/Jesse%20Katabarwa_3.jpg', 
+    'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/Jesse_Umulisa_Katabarwa_ssomehow_invite.jpg', 
      width: '1fr' },
      { src: 
-    'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/Jesse%20Katabarwa_2.jpg', 
+    'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/Jesse_Umulisa_Katabarwa_2.jpg', 
      width: '2fr' },
      
     ],
@@ -37,11 +37,11 @@ export const rows = [
       images:    
        [         
           { src: 
-        'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/diasphora.png', 
+        'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/Jesse_Umulisa_Katabarwa_diasphora.png', 
          width: '2.2fr' },
   
         { src: 
-        'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/V_invite_ssome.how8.jpg', 
+        'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/Jesse_Umulisa_Katabarwa_invite_ssome.how.jpg', 
          width: '1fr' },
   
     
@@ -62,7 +62,7 @@ export const rows = [
       images:    
        [         
           { src: 
-        'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/JesseKatabarwa.mp4', 
+        'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/Jesse_Umulisa_Katabarwa_ssomehow.mp4', 
          width: '1fr', type:'video' },
   
     
@@ -93,17 +93,17 @@ export const rows = [
   
   
      { src: 
-    'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/IMG_6449_c.jpg', 
+    'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/Jesse_Umulisa_Katabarwa_engineer.jpg', 
      width: '0.5fr' },  
      
      { src: 
-    'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/ssh3.1.jpg', 
+    'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/Jesse_Umulisa_Katabarwa_ssh3.1.jpg', 
      width: '1fr' },
     //  { src: 
     //     'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/ssh4.png', 
     //      width: '1fr' },
          { src: 
-    'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/ssh34.png', 
+    'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/Jesse_Umulisa_Katabarwa_ssh34.png', 
      width: '1fr' },
      
     ],
@@ -118,13 +118,13 @@ export const rows = [
   images: 
   [
      { src: 
-    'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/34141_cropped.jpg', 
+    'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/Jesse_Umulisa_Katabarwa__mirror.jpg', 
      width: '0.958fr' },
      { src: 
-        'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/IMG_6463.jpg', 
+        'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/Jesse_Umulisa_Katabarwa_63.jpg', 
          width: '1fr' },
          { src: 
-    'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/JesseKatabarwa_ssh.mp4',
+    'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/Jesse_Umulisa_Katabarwa_ssomehow_.mp4',
      width: '1fr' , type:'video'},
      
     ],
