@@ -70,21 +70,27 @@ export const rows = [
         ],
       title: `2025 ﹅ The Grey Rings of My Eyes`,
       location: `<a href="https://ssome.how">SSOME.HOW</a>`,
-      details: `Are we grasping the world as fast as it is evolving? 
-      Why is loneliness an undeniable reality of modernity? Tools used as 
-      mass-surveillance apparatus and social control. Why growing access in 
-      modes of communications and access alienate our interactions? Things 
-      seem accessible, but a shell of what they are replacing.
-      Isolation of ideas, contained between what the algorithm wants and 
-      what it is fed. Isolation within space, where individuality is manufactured 
-      over community and consumption is offered as a replacement.`,
+      details: `The boundaries between our digital identities, virtual footprint and what define us as 
+      humans seems to progressively be blurred. The advance of social media and web markets, 
+      have turned us, consumers as products.
+  Information and images are separated from what they are referring to, both materially and conceptually. 
+  This separation is needed to serve capitalist goals, as the goal was never to educate but extract. 
+  `,
+      // details: `Are we grasping the world as fast as it is evolving? 
+      // Why is loneliness an undeniable reality of modernity? Tools used as 
+      // mass-surveillance apparatus and social control. Why growing access in 
+      // modes of communications and access alienate our interactions? Things 
+      // seem accessible, but a shell of what they are replacing.
+      // Isolation of ideas, contained between what the algorithm wants and 
+      // what it is fed. Isolation within space, where individuality is manufactured 
+      // over community and consumption is offered as a replacement.`,
       backgroundColor: 'var(--reversebg)',
   
     },
-    {
+  //   {
   
-  images: 
-  [
+  // images: 
+  // [
   
     //   { src: 
     // 'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/653634.jpg', 
@@ -92,50 +98,50 @@ export const rows = [
   
   
   
-     { src: 
-    'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/Jesse_Umulisa_Katabarwa_engineer.jpg', 
-     width: '0.5fr' },  
+    //  { src: 
+    // 'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/Jesse_Umulisa_Katabarwa_engineer.jpg', 
+    //  width: '0.5fr' },  
      
-     { src: 
-    'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/Jesse_Umulisa_Katabarwa_ssh3.1.jpg', 
-     width: '1fr' },
+    //  { src: 
+    // 'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/Jesse_Umulisa_Katabarwa_ssh3.1.jpg', 
+    //  width: '1fr' },
     //  { src: 
     //     'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/ssh4.png', 
     //      width: '1fr' },
-         { src: 
-    'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/Jesse_Umulisa_Katabarwa_ssh34.png', 
-     width: '1fr' },
+  //        { src: 
+  //   'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/Jesse_Umulisa_Katabarwa_ssh34.png', 
+  //    width: '1fr' },
      
-    ],
-  title: `Left: 36" by 36" High Saturation Color Ink on Archival Exhibition Paper. Right: Concept Glass & Moss Tables` ,
-  location: `<a href="https://ssome.how">SSOME.HOW</a>`,
-  details: `“Science, when it becomes mechanical, prevents us from comprehending the creativity which is life itself. Life is a recursive process of making in the unmaking.” Yuk Hui Recursivity and Contingency. `,
-  backgroundColor: 'var(--bg)',
+  //   ],
+  // title: `Left: 36" by 36" High Saturation Color Ink on Archival Exhibition Paper. Right: Concept Glass & Moss Tables` ,
+  // location: `<a href="https://ssome.how">SSOME.HOW</a>`,
+  // details: `“Science, when it becomes mechanical, prevents us from comprehending the creativity which is life itself. Life is a recursive process of making in the unmaking.” Yuk Hui Recursivity and Contingency. `,
+  // backgroundColor: 'var(--bg)',
   
-  },
-    {
+  // },
+  //   {
   
-  images: 
-  [
-     { src: 
-    'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/Jesse_Umulisa_Katabarwa__mirror.jpg', 
-     width: '0.958fr' },
-     { src: 
-        'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/Jesse_Umulisa_Katabarwa_63.jpg', 
-         width: '1fr' },
-         { src: 
-    'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/Jesse_Umulisa_Katabarwa_ssomehow_.mp4',
-     width: '1fr' , type:'video'},
+  // images: 
+  // [
+  //    { src: 
+  //   'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/Jesse_Umulisa_Katabarwa__mirror.jpg', 
+  //    width: '0.958fr' },
+  //    { src: 
+  //       'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/Jesse_Umulisa_Katabarwa_63.jpg', 
+  //        width: '1fr' },
+  //        { src: 
+  //   'https://pub-6052c7e633eb41b588583096f731cf26.r2.dev/Jesse_Umulisa_Katabarwa_ssomehow_.mp4',
+  //    width: '1fr' , type:'video'},
      
-    ],
-  title: `2025 ﹅ The Grey Rings of My Eyes`,
-  location: `<a href="https://ssome.how">SSOME.HOW</a>`,
-  details: `The boundaries between our digital identities, virtual footprint and what define us as humans seems to progressively be blurred. The advance of social media and web markets, have turned us, consumers as products.
-  Information and images are separated from what they are referring to, both materially and conceptually. This separation is needed to serve capitalist goals, as the goal was never to educate but extract. 
-  `,
-  backgroundColor: 'var(--reversebg)',
+  //   ],
+  // title: `2025 ﹅ The Grey Rings of My Eyes`,
+  // location: `<a href="https://ssome.how">SSOME.HOW</a>`,
+  // details: `The boundaries between our digital identities, virtual footprint and what define us as humans seems to progressively be blurred. The advance of social media and web markets, have turned us, consumers as products.
+  // Information and images are separated from what they are referring to, both materially and conceptually. This separation is needed to serve capitalist goals, as the goal was never to educate but extract. 
+  // `,
+  // backgroundColor: 'var(--reversebg)',
   
-  },
+  // },
   
   
     
